@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv-vPWABxJdjcvJK6kA-thObTc3bBXE3-HRLIVoD0Q1OM1PKfjuNB9SnS&s=10" group-title="big brother",câmera 1 HD
+http://69.162.89.182:8081/live/bbb01/chunks.m3u8?nimblesessionid=7703921&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNjo0NjoxMyBQTSZoYXNoX3ZhbHVlPVlwR1k1c2hQOGl6UE5wWlREVnZ3SUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv-vPWABxJdjcvJK6kA-thObTc3bBXE3-HRLIVoD0Q1OM1PKfjuNB9SnS&s=10" group-title="big brother",câmera 2 HD
+http://69.162.89.182:8081/live/bbb11/chunks.m3u8?nimblesessionid=7704075&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNjo0ODo1NCBQTSZoYXNoX3ZhbHVlPW5rdDBPb0htSllUM2FHRGNwcUtnRUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHOdWauEx0tD_QPER3zHtXew4o4sFMz4XzGg&usqp=CAU" group-title="canal viva",viva
+http://172.96.172.111:2095/streams/153_.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuSNKaSKXX9QDn5EbHImSERdxFFPm4QnVOYw&usqp=CAU" group-title="canal http://172.96.172.111:2095/streams/143_.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY1ABjMbVjP6azFHnvr3tJn6EpduRySGvw0g&usqp=CAU" group-title="telecine  premium",Telecine Premium
+http://69.162.89.182:8081/live/filmes_tcpremium/chunks.m3u8?nimblesessionid=7704278&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNjo1Mzo0NCBQTSZoYXNoX3ZhbHVlPTdwL1ErUnN1RUdmZE1IdWZKU0YzWEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-yLwLzI2nQy7VW2DE7VS7UiusPUWZluwUQ&usqp=CAU" group-title="Esporte",premier FC
+http://95.141.32.158:8081/loadbalance/sportv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-yLwLzI2nQy7VW2DE7VS7UiusPUWZluwUQ&usqp=CAU" group-title="Esporte",premier 6 FC
+http://105m3u8.epg-kc.com:80/v3/youshi/m4_CI91VUNQ4wsiRtSvmhY8adfr_480p.m3u8?session_id=TLm3UBvfL8Sa&app_ver=10101&auth_id=41143628_com.global.brasiltvweb&client_ip=200.201.211.226&user_id=41143628&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=e93468f3&expired=1617995357&token=59F8DD6040C94AE99C120706885AF788&media_code=m4_CI91VUNQ4wsiRtSvmhY8adfr_480p
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF8wrL8pZQn2dWwGg6dnY6yMJDzmwLAQo8w&usqp=CAU" group-title="Esporte",fox sports 2
+https://edge-aws.aovivotv.xyz:443/hls/s:88.198.239.170/foxsports2_fc8d9e6e_121bb4c3edafac66d4a3fddfc7092151a0cf5b38/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBaBGCd6th3FgmD_Ti9NsXixS8N4fxkHhRA&usqp=CAU" group-title="Esporte",fox sports
+http://172.96.172.111:2095/streams/56_.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR90rkFbJ57_BIFKr6XaW_O2M4Fldolh0e8lw&usqp=CAU" group-title="Esporte",band sports
+http://nxplay-srv1.nxplay.com.br:80/BAND_SPORTS/tracks-v1a1/mono.m3u8
